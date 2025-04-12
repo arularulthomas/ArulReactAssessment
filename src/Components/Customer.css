@@ -1,0 +1,104 @@
+.CustomerRelationshipManagementSystem{
+    background-image: url(https://img.freepik.com/free-photo/abstract-wavy-shapes_1048-4740.jpg?semt=ais_hybrid&w=740);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-image: url(https://cdn.pixabay.com/photo/2023/12/13/23/01/swirl-8447932_1280.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 60vh;
+}
+
+.form input{
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 250px;
+    font-size: 16px;
+    background-color: #fff;
+    outline: none;
+}
+
+.form button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.form button:hover{
+    background-color: #3e8e41;
+}
+
+.displayform{
+    margin-top: 20px;
+}
+
+.displayform table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.displayform th, .displayform td{
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.displayform th{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.displayform td button{
+    background-color: #e6271d;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.displayform td button:hover{
+    background-color: #3e8e41;
+}
+label{
+    background-color: #4CAF50;
+    color: white;    
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+td{
+    background-color: #4CAF50;
+    color: white;
+}

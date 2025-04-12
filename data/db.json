@@ -1,0 +1,32 @@
+{
+  "detail": [
+    {
+      "id": "",
+      "name": "",
+      "contactInfo": "",
+      "purchaseHistory": "",
+      "feedback": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "contactInfo": "",
+      "purchaseHistory": "",
+      "feedback": ""
+    },
+    {
+      "name": "Arul Edited",
+      "contactInfo": "9600694817",
+      "purchaseHistory": "2025-04-08",
+      "feedback": "Nice",
+      "id": "12573"
+    },
+    {
+      "id": "10000",
+      "name": "Naveen",
+      "contactInfo": "8754927599",
+      "purchaseHistory": "2025-04-07",
+      "feedback": "Bad"
+    }
+  ]
+}
